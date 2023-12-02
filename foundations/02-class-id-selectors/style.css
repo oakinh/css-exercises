@@ -1,0 +1,18 @@
+
+.cool-class {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: #FC0FC0
+}
+.cooler-class {
+    font-size: 24px;
+}
+
+#div1 {
+    color: #000080;
+    font-size: 36px;
+}
+#div2{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 700;
+}
